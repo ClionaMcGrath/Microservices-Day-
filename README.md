@@ -21,3 +21,9 @@ _You **can** combine them_
 3. Item 3
    * Item 3a
    * Item 3b
+   [Visit Google!](https://www.google.com)
+![A representation of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
+
+![Image of Yaktocat][yaktocat]
+
+[yaktocat]:https://octodex.github.com/images/yaktocat.png
